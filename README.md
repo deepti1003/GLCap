@@ -1,2 +1,2 @@
 # GLCap
-Project for Stock price analysis on live 
+Project for Stock price analysis on live data
